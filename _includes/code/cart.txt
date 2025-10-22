@@ -1,0 +1,6 @@
+<form target="paypal"  action="https://www.paypal.com/cgi-bin/webscr" method="post" style="margin-bottom:0; margin-top:0; margin-right:0; margin-left:0;">
+<input type="hidden" name="cmd" value="_cart">
+<input type="hidden" name="business" value="michael@widener.org">
+<input type="image" src="cart.png" border="0" name="submit" width="35" height="45"
+				ONMOUSEOVER="window.status='View cart.';  return true;"
+				ONMOUSEOUT="window.status='';  return true;"><input type="hidden" name="display" value="1"></form>

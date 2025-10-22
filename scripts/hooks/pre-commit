@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+staged="$(git diff --cached --name-only -z)"
+[ -z "$staged" ] && exit 0
+
+if printf '%s' "$staged" | tr '\0' '\n' | grep -E '(^|/)\.DS_Store$|(^|/)\._[^/]+$|(^|/)Icon$|(^|/)\.AppleDouble$' >/dev/null; then
+  echo
+  echo "✖ Commit blocked: macOS metadata detected in staged files."
+  printf '%s' "$staged" | tr '\0' '\n' | grep -E '(^|/)\.DS_Store$|(^|/)\._[^/]+$|(^|/)Icon$|(^|/)\.AppleDouble$' || true
+  echo
+  echo "Hint: run  find . -name '.DS_Store' -exec git rm --cached -f -- {} +"
+  exit 1
+fi
+exit 0

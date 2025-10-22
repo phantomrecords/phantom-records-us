@@ -1,0 +1,114 @@
+#  Robot-Manager was used to generate this file.
+#  Copyright (c) 2001-2002 by Sophtware.com, Inc.  All Rights Reserved.
+#  http://www.websitemanagementtools.com/
+
+#  PARTIAL access (Google)
+#  NO access (Google)
+User-agent: Googlebot
+Allow: /
+
+Disallow: /team/mary-lee-s-termination/
+Disallow: /team/bubbles/
+Disallow: /catalog/
+Disallow: /changes/
+Allow: /contact/
+Disallow: /custommix/
+Disallow: /damaged/
+Disallow: /default.html
+Disallow: /disclaimer/
+Disallow: /downloads/
+Disallow: /faithfully/
+Allow: /favicon.ico
+Disallow: /holdon/
+Disallow: /homepage/
+Disallow: /igetlonely/
+Allow: /images/
+Disallow: /ladymarmalade/
+Disallow: /login/
+Disallow: /media/
+Allow: /people/
+Disallow: /program/
+Disallow: /repairlist/
+Disallow: /shoppinglist/
+Disallow: /signup/
+Disallow: /soakupthesun/
+Disallow: /store/
+Disallow: /todolist/
+Disallow: /wildwildwest/
+Disallow: /yourloveismylove/
+Disallow: /yourmakinmehigh/
+
+#  PARTIAL access (Google Image)
+#  NO access (Google Image)
+User-agent: Googlebot-Image
+
+Allow: /
+
+Disallow: /team/mary-lee-s-termination/
+Disallow: /team/bubbles/
+Disallow: /catalog/
+Disallow: /changes/
+Allow: /contact/
+Disallow: /custommix/
+Disallow: /damaged/
+Disallow: /default.html
+Disallow: /disclaimer/
+Disallow: /downloads/
+Disallow: /faithfully/
+Allow: /favicon.ico
+Disallow: /holdon/
+Disallow: /homepage/
+Disallow: /igetlonely/
+Allow: /images/
+Disallow: /ladymarmalade/
+Disallow: /login/
+Disallow: /media/
+Allow: /people/
+Disallow: /program/
+Disallow: /repairlist/
+Disallow: /shoppinglist/
+Disallow: /signup/
+Disallow: /soakupthesun/
+Disallow: /store/
+Disallow: /todolist/
+Disallow: /wildwildwest/
+Disallow: /yourloveismylove/
+Disallow: /yourmakinmehigh/
+
+#  PARTIAL access (All Spiders)
+#  NO access (All Spiders)
+User-agent: *
+
+Allow: /
+
+Disallow: /team/mary-lee-s-termination/
+Disallow: /team/bubbles/
+Disallow: /catalog/
+Disallow: /changes/
+Allow: /contact/
+Disallow: /custommix/
+Disallow: /damaged/
+Disallow: /default.html
+Disallow: /disclaimer/
+Disallow: /downloads/
+Disallow: /faithfully/
+Allow: /favicon.ico
+Disallow: /holdon/
+Disallow: /homepage/
+Disallow: /igetlonely/
+Allow: /images/
+Disallow: /ladymarmalade/
+Disallow: /login/
+Disallow: /media/
+Allow: /people/
+Disallow: /program/
+Disallow: /repairlist/
+Disallow: /shoppinglist/
+Disallow: /signup/
+Disallow: /soakupthesun/
+Disallow: /store/
+Disallow: /todolist/
+Disallow: /wildwildwest/
+Disallow: /yourloveismylove/
+Disallow: /yourmakinmehigh/
+

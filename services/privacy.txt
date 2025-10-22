@@ -1,0 +1,53 @@
+1. Introduction.
+
+
+Protecting your private information is our priority. This Statement of Privacy applies to this site (Phantom Records LLC) and governs data collection and usage.
+
+For the purposes of this Privacy Policy, unless otherwise noted, all references to Phantom Records refer to this site. This website is a graphic design, multimedia design, web design, and JavaScript-enabled site. By using this website, you consent to the data practices described in this statement.
+
+
+2. Collection of your Personal Information
+
+
+We do not collect personally identifiable information from our visitors and we have no plans to gather personal information in the future. Information about your computer hardware and software may be automatically collected by this site as a part of routine logging functions and is not personally identifiable to you. This information can include: your IP address, browser type, domain names, access times, and referring website addresses. This information is used for the operation of the site, to maintain the integrity of the site's compatibility with the browser and operating system combinations accessing the site, and to provide general statistics regarding use of this site by its visitors. We encourage you to review the privacy statements of websites you choose to visit so that you can understand how those websites collect, use and / or share this information. We are not responsible for the privacy statements or content on other websites.
+
+
+3. Use of Cookies
+
+
+This website may use "cookies" to help improve compatibility with your browser / operating system combination by tracking the various combinations that require special programming. In order to enhance your experience by maintaining a consistent experience for you, it is sometimes necessary to program parts of our site differently on our end, so that you experience a consistent experience on your end. This requires that we track those combinations using "cookies."
+
+A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your browser / operating system combination and are not uniquely assigned to you or any representation of a personally identifiable artifact representing you. Cookies can only be read by a web server in the domain that issued the cookie.
+
+One of the primary purposes of cookies is to provide a convenience feature that saves you time by avoiding possible requirements that you install special software in order to use this site. To avoid this, we detect your environment to attempt to provide the necessary version of functionality that works best with your browsing environment and that does not require you to install additional software.
+
+Another purpose of a cookie is to tell the Web server that you have returned to a specific page with a recognized browsing environment.
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this site as you will, in part, disable our ability to detect what special programming is necessary to ensure your browsing experience is consistent and compelling.
+
+
+4. Security of your Personal Information
+
+
+Sensitive information is not transmitted to or from this site; however, the site is available in a Secure Sockets Layer connection in order to provide a secure link between our web server and your browser. This reduces the opportunity for the site's pages or content to be intercepted in transit and altered. We believe every practical, prudent, and feasible precaution should be taken to safeguard against cyber threats.
+
+
+5. Children Under Thirteen
+
+
+This site does not and cannot knowingly collect personally identifiable information from children under the age of thirteen because this site does not have any function that would allow a visitor to identify themselves by their age, gender, or any other personally identifiable demographic. If you are under the age of thirteen, you must ask one or both of your parents or your guardian for permission to use this website.
+
+
+6. Changes to this Statement
+
+
+We will occasionally update this Statement of Privacy to reflect changes in best practices, experiences with privacy of our visitors, customer feedback, and / or government regulations, laws, or any other applicable items. We encourage you to periodically review this Statement to be informed of how we are protecting your experience at our site.
+
+
+7. Contact Information
+
+
+We welcome your questions or comments regarding this Statement of Privacy. If you believe that this site has not adhered to this Statement, please contact Phantom Records using this site's contact form.
+
+
+Effective as of February 23, 2023.

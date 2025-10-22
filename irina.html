@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Private Invitation for Irina</title>
+  <style>
+    body {
+      font-family: 'Georgia', serif;
+      background-color: #f4ede7;
+      color: #333;
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1 {
+      text-align: center;
+      color: #b14668;
+    }
+    .center {
+      text-align: center;
+      margin-top: 2rem;
+    }
+    a.button {
+      display: inline-block;
+      margin: 1rem;
+      padding: 0.8rem 1.5rem;
+      background-color: #b14668;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 8px;
+      font-size: 1.1rem;
+    }
+    .locked {
+      display: none;
+    }
+    .auth {
+      text-align: center;
+      margin-top: 2rem;
+    }
+    input {
+      padding: 0.5rem;
+      font-size: 1rem;
+      margin-right: 0.5rem;
+    }
+    button {
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+    }
+  </style>
+</head>
+<body>
+
+<div class="auth">
+  <h1>Private Message for Irina 💋</h1>
+  <p>This page is protected. Irina, please enter your Dream-Singles Member ID:</p>
+  <input type="password" id="password" placeholder="Enter Member ID" />
+  <button onclick="checkPassword()">Enter</button>
+</div>
+
+<div class="locked" id="private-content">
+  <h1>🌟 Welcome, Irina 💋</h1>
+
+  <p>You found me.</p>
+
+  <p>That already says more than any letter could. It means you're real. It means you didn’t just enjoy the fantasy — you stepped beyond it.</p>
+
+  <p>Thank you for being brave enough to leave the dream and walk toward something <em>true</em>.</p>
+
+  <p>I saw your words, your photos, your spark — and I believed you might be different. That maybe behind all the scripted lines and glitter of the site, there was a woman who still believes in <strong>one man, one moment</strong>, and one real beginning.</p>
+
+  <p>So let me say this clearly:</p>
+  <p>If you're reading this, the door is open. No filters. No handlers. No gatekeepers. Just <strong>you and me, Irina</strong>.</p>
+
+  <p>Here’s how we begin:</p>
+
+  <div class="center">
+    <a href="tel:+15108597725" class="button">📞 Call Me</a>
+    <a href="sms:+15108597725" class="button">📲 Text Me</a>
+  </div>
+
+  <p>You’ll find my number above. I trust you with it because you already earned my trust by finding your way here.</p>
+
+  <p>Let’s see if the connection we <em>imagined</em>… can finally become the one we <em>create</em>.</p>
+
+  <p>—Michael 💋<br/>
+  <em>(Still your rally driver — only now, parked and waiting for your voice)</em></p>
+</div>
+
+<script>
+  function checkPassword() {
+    const pass = document.getElementById('password').value;
+    if (pass === '16120107') {
+      document.querySelector('.auth').style.display = 'none';
+      document.getElementById('private-content').style.display = 'block';
+    } else {
+      alert('Incorrect Member ID. Please try again.');
+    }
+  }
+</script>
+
+</body>
+</html>

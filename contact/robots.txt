@@ -1,0 +1,95 @@
+#  Robot-Manager was used to generate this file.
+#  Copyright (c) 2001-2002 by Sophtware.com, Inc.  All Rights Reserved.
+#  http://www.websitemanagementtools.com/
+
+#  PARTIAL access (Google)
+#  NO access (Google)
+User-agent: Googlebot
+Disallow: /
+Allow: /catalog/
+Allow: /changes/
+Allow: /custommix/
+Allow: /damaged/
+Allow: /default.html
+Allow: /disclaimer/
+Allow: /downloads/
+Allow: /faithfully/
+Allow: /favicon.ico
+Allow: /holdon/
+Allow: /homepage/
+Allow: /igetlonely/
+Allow: /images/
+Allow: /ladymarmalade/
+Allow: /login/
+Allow: /media/
+Allow: /people/
+Allow: /program/
+Allow: /repairlist/
+Allow: /shoppinglist/
+Allow: /signup/
+Allow: /soakupthesun/
+Allow: /store/
+Allow: /todolist/
+Allow: /wildwildwest/
+Allow: /yourloveismylove/
+Allow: /yourmakinmehigh/
+
+#  PARTIAL access (Google Image)
+#  NO access (Google Image)
+User-agent: Googlebot-Image
+Disallow: /
+Allow: /catalog/
+Allow: /changes/
+Allow: /custommix/
+Allow: /damaged/
+Allow: /default.html
+Allow: /downloads/
+Allow: /faithfully/
+Allow: /favicon.ico
+Allow: /holdon/
+Allow: /homepage/
+Allow: /igetlonely/
+Allow: /images/
+Allow: /ladymarmalade/
+Allow: /login/
+Allow: /media/
+Allow: /people/
+Allow: /repairlist/
+Allow: /shoppinglist/
+Allow: /signup/
+Allow: /soakupthesun/
+Allow: /store/
+Allow: /todolist/
+Allow: /wildwildwest/
+Allow: /yourloveismylove/
+Allow: /yourmakinmehigh/
+
+#  PARTIAL access (All Spiders)
+#  NO access (All Spiders)
+User-agent: *
+Disallow: /
+Allow: /catalog/
+Allow: /changes/
+Allow: /custommix/
+Allow: /damaged/
+Allow: /default.html
+Allow: /downloads/
+Allow: /faithfully/
+Allow: /holdon/
+Allow: /homepage/
+Allow: /igetlonely/
+Allow: /images/
+Allow: /ladymarmalade/
+Allow: /login/
+Allow: /media/
+Allow: /people/
+Allow: /repairlist/
+Allow: /shoppinglist/
+Allow: /signup/
+Allow: /soakupthesun/
+Allow: /store/
+Allow: /todolist/
+Allow: /wildwildwest/
+Allow: /yourloveismylove/
+Allow: /yourmakinmehigh/
+
